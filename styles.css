@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background-color: #ffffff00;
+    background-color: #b961dbbe;
 }
 
 
@@ -105,7 +105,7 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('img/sol4.png') bottom right no-repeat;
+    background: url('img/sol3.jpeg bottom right no-repeat;
     background-size: 180px 180px;
 }
 
