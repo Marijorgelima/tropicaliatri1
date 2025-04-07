@@ -21,7 +21,7 @@ section {
 
 
 .nav-link {
-    color: #ffee00fb;
+    color: #ebe6a385;
     font-weight: 600;
 }
 
@@ -118,7 +118,7 @@ h2 {
 }
 
 .formulario {
-    background-color: #fad503;
+    background-color: #d29be2;
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
@@ -129,11 +129,11 @@ h2 {
 }
 
 .formulario button {
-    background-color: #cb4343;
+    background-color: #af73bb;
     border: none;
     font-weight: bold;
 }
 
 .form-control {
-    background-color: #c51818;
+    background-color: #dfbee7;
 }
