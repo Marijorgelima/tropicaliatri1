@@ -81,6 +81,30 @@ section {
         url('img/cameleão.jpeg') bottom left no-repeat;
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
+    <!DOCTYPE html>
+    <html>
+    <head>
+      <title>Diminuir Fonte</title>
+      <style>
+        p {
+          font-size: 10px; /* Define o tamanho da fonte para todos os parágrafos */
+        }
+    
+        .texto-pequeno {
+          font-size: 8px; /* Define o tamanho da fonte para elementos com a classe "texto-pequeno" */
+        }
+    
+        #meu-elemento {
+          font-size: 11px; /* Define o tamanho da fonte para o elemento com o ID "meu-elemento" */
+        }
+      </style>
+    </head>
+    <body>
+      <p>Este parágrafo terá uma fonte de 10 pixels.</p>
+      <div class="texto-pequeno">Este texto terá uma fonte de 8 pixels.</div>
+      <span id="meu-elemento">Este texto terá uma fonte de 11 pixels.</span>
+    </body>
+    </html>
 }
 
 #tropicalia .container {
@@ -138,3 +162,4 @@ h2 {
 .form-control {
     background-color: #b42fc5;
 }
+
